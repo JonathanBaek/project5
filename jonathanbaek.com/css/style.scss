@@ -156,14 +156,17 @@ input[type=text], input[type=tel] {
     margin-left: auto;
     display: block;
   }
+
+  #icon{
+    line-height:unset;
+  }
   #footerfont{
     color:$color3;
     font-family: $font1;
   }
-
+  
   .link{
-    background-color: $color1;
-    color:$color3;
+    @include alt;
   }
 
   .divider {

@@ -129,15 +129,17 @@ nav ul li a:hover {
   margin-left: auto;
   display: block;
 }
+#icon{
+    line-height:unset;
+}
 #footerfont{
   color:#F25737;
   font-family: 'Poiret One';
-}
+  }
 .link{
     background-color: #ffebcd;
     color:#F25737;
 }
-
 .divider {
   background-color: #ffebcd;
   color: #F25737;
