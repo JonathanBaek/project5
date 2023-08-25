@@ -124,7 +124,9 @@ nav ul li a:hover {
   margin-right: auto;
   display: block;
 }
-
+#kevin{
+  text-align: center;
+}
 #right {
   margin-left: auto;
   display: block;
