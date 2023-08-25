@@ -3,7 +3,6 @@
   background-color: #240315;
   color: #ffebcd;
   font-family: "Didact Gothic";
-  font-weight: bold;
   line-height: 2em;
   overflow-x: hidden;
 }
@@ -114,6 +113,7 @@ nav ul li a {
   text-decoration: none;
   padding: 1em;
   text-align: center;
+  font-weight: bold;
 }
 nav ul li a:hover {
   background-color: #240315;

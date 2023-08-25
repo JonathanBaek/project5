@@ -38,7 +38,6 @@
     background-color: $color1;
     color: $color2;
     font-family: $font2;
-    font-weight: bold;
     line-height: 2em;
     overflow-x:hidden;
   }
@@ -139,6 +138,7 @@ input[type=text], input[type=tel] {
         @include alt;
         @include format;
         text-align: center;
+        font-weight: bold;
       }
   
       a:hover {
