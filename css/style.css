@@ -140,7 +140,7 @@ nav ul li a:hover {
 }
 #homepage::before{
   content: "";
-  background-image: url("/media/pink.jpg");
+  background-image: url("../media/pink.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -155,7 +155,7 @@ nav ul li a:hover {
 }
 
 #about{
-  background-image: url("/media/sakura.jpg");
+  background-image: url("../media/sakura.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -163,7 +163,7 @@ nav ul li a:hover {
   padding:10vh 0;
 }
 #contact{
-  background-image: url("/media/flowers.jpg");
+  background-image: url("../media/flowers.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
