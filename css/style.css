@@ -137,7 +137,11 @@ nav ul li a:hover {
 }
 #homepage::before{
   content: "";
+<<<<<<< HEAD
   background-image: url("https://media.discordapp.net/attachments/810747985402789918/1155738103118561290/mi-min-pkpqoBp11Jc-unsplash.jpg");
+=======
+  background-image: url("../media/pink.jpg");
+>>>>>>> d9e641c3b0431409e5a65d407a06b5b9d4ede210
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -152,7 +156,11 @@ nav ul li a:hover {
 }
 
 #about{
+<<<<<<< HEAD
   background-image: url("https://cdn.discordapp.com/attachments/810747985402789918/1155738103869341776/jay-dutta-QJJZyFNevBs-unsplash.jpg");
+=======
+  background-image: url("../media/sakura.jpg");
+>>>>>>> d9e641c3b0431409e5a65d407a06b5b9d4ede210
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -160,7 +168,11 @@ nav ul li a:hover {
   padding:10vh 0;
 }
 #contact{
+<<<<<<< HEAD
   background-image: url("https://media.discordapp.net/attachments/810747985402789918/1155738103550590976/masaaki-komori-iczsntduUyI-unsplash_1.jpg");
+=======
+  background-image: url("../media/flowers.jpg");
+>>>>>>> d9e641c3b0431409e5a65d407a06b5b9d4ede210
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
