@@ -169,7 +169,7 @@ nav ul li a:hover {
   background-position: center;
   background-attachment: fixed;
   height: 65vh;
-  padding:10vh 0 0 0;
+  padding:10vh 0;
 }
 #footerfont{
   color:#F25737;
